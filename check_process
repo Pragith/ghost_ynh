@@ -1,6 +1,6 @@
 ;; Test complet
     ; Manifest
-        domain="domain.tld"
+        domain="news.vriksh.ca"
         path="/path"
         is_public=1
     ; Checks
